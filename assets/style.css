@@ -1,7 +1,7 @@
 :root {
     --text-color: hsl(0, 0%, 100%);
-    --card-front-color: hwb(179 64% 20%);
-    --card-back-color: hsl(186, 73%, 32%);
+    --card-front-color: hwb(179 0% 15%);
+    --card-back-color: hsl(199, 100%, 50%);
     }
 
 body {
@@ -85,7 +85,7 @@ body {
 
 footer {
     background-color: black;
-    color: white;
+    color: rgb(255, 0, 0);
     bottom:0;
     position:fixed;
     width:100%;
