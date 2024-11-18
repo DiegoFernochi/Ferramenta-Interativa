@@ -1,35 +1,35 @@
 criaCartao(
     'Programação',
     'O que é HTML?',
-    'O HTML (Linguagem de Marcação de HiperTexto)' 
+    'O HTML é uma linguagem de marcação.' 
+)
+
+criaCartao(
+    'Programação',
+    'O que é HEAD?',
+    'O HEAD é usado como cabeçalho.'
+)
+
+criaCartao(
+    'Programação',
+    'O que é FOOTER?',
+    'O FOOTER é o conteúdo final de uma página.'    
+)
+
+criaCartao(
+    'Programação',
+    'O que é DIV?',
+    ' O DIV é um elemento HTML que serve como um conteiner.'
+)
+
+criaCartao(
+    'Programação',
+    'O que é JAVASCRIPT?',
+    'O JAVASCRIPT é uma linguagem de programação.'
 )
 
 criaCartao(
     'Programação',
     'O que é CSS?',
-    'O CSS é uma linguagem de estilização.'
-)
-
-criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação.'    
-)
-
-criaCartao(
-    'Programação',
-    'O que é Front-end?',
-    ' O Front-end compreende a parte visual de sites e aplicações.'
-)
-
-criaCartao(
-    'Programação',
-    'O que é Back-end?',
-    'O Back-end compreende tudo aquilo que tem por trás de uma aplicação.'
-)
-
-criaCartao(
-    'Programação',
-    'O que é Full Stack?',
-    'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Back-end.'   
+    'O CSS é uma linguagem de estilização.'   
 ) 
